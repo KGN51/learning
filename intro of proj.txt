@@ -1,0 +1,26 @@
+emdm - integration layer - sap
+
+mdm - informatica 
+mdg - sap systems
+
+s4(storage) ( changes can be made in UI ) is the target in legacy
+
+mdcp, 
+
+emp org relationships...etc are all parties
+
+ADS in informatica 
+GTS system
+
+SIF, service integration fabric 
+
+IMDM - create party 
+
+UI is created to provide access to different users to create party or alter the data
+
+cpp - channel partner, one of the downstream
+
+emdm h systems - to handle the changes in data
+
+
+
